@@ -17,6 +17,8 @@ node_modules/
 # any markdown files
 *.md 
 
+# remove any 'test' folder
+test/
 
 # keep README.md
 !test/README.mda
