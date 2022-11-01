@@ -1,2 +1,19 @@
+.DS_STORE
+
+
+# any practice
+
+
 node_modules/
+
+.log
+
+# Ny text file for notes
+*.txt
+
 .hintrc
+
+
+# any markdown files
+
+
