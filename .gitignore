@@ -15,5 +15,9 @@ node_modules/
 
 
 # any markdown files
+*.md 
 
+
+# keep README.md
+!test/README.mda
 
