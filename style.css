@@ -34,11 +34,6 @@ body {
   align-items: center;
 }
 
-/* .sidebar-top {
-  display: flex;
-  justify-content: space-evenly;
-} */
-
 .sidebar-top,
 .sidebar-center,
 .sidebar-bottom {
